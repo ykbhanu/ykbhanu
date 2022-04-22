@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @ykbhanu
 - 👀 I’m interested in web desigining
-- 🌱 I’m currently learning flutter and php
+-  Skilled in:
+-  ~ Front-End web development with HTML,CSS,Javascript and Figma
+-  ~ Backend-End web development with Nodejs
+- 🌱 I’m currently learning figma  and react
 - 📫 Mail  to reach me ...
 
 <!---
