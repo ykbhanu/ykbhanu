@@ -3,7 +3,7 @@
 -  Skilled in:
 -  ~ Front-End web development with HTML,CSS,Javascript and Figma
 -  ~ Backend-End web development with Nodejs
-- 🌱 I’m currently learning figma  and react
+- 🌱 I’m currently learning Machine Learning
 - 📫 Mail  to reach me ...
 
 <!---
